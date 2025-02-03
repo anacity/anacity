@@ -1,14 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ana</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ana-julia-medina-97a9612b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-julia-medina-97a9612b3" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Ana!;Desenvolvedora+%7C+Entusiasta+de+Tecnologia;Seja+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anacity&show_icons=true&locale=en&layout=compact" alt="anacity" /></p>
+### 👩‍💻 Sobre Mim
+- 🎓 **Formação**: Curso técnico em Desenvolvimento de Sistemas
+- 💼 **Atualmente**: Estagiária
+- 🌱 **Aprendendo**: Spring Boot, Docker e MongoDb
+- 📫 **Como me encontrar**: [anajuliamedina431@gmail.com](mailto:anajuliamedina431@gmail.com)
+- 😄 **Pronomes**: Ela/Dela
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anacity&show_icons=true&locale=en" alt="anacity" /></p>
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postman,git,github,vscode,eclipse&theme=dark" alt="Tecnologias" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anacity&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" alt="Estatísticas do GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacity&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 🌟 Projetos Destacados
+
+- **[Autenticação com JWT](https://github.com/anacity/auth)** - API de autenticação, com papéis com diferentes permissões.
+- **[Gerenciamento de funcionários](https://github.com/anacity/gestaofuncionarios-CRUD)** - Com o sistema, é possível criar funcionários, editá-los e excluí-los. Além da lista que é feita a partir das modificações feitas (criar ou deletar)
+- **[Livraria](https://github.com/anacity/Livraria-CRUD)** - Simples sistema CRUD de uma livraria.
+
+---
+
+### 📈 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anacity&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=F72585&color=F72585&line=F72585&point=FFFFFF" alt="Gráfico de Contribuições" />
+</p>
+
+---
+
+### Feito por Ana 🌟

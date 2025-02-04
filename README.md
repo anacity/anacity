@@ -8,7 +8,7 @@
 - 🎓 **Formação**: Curso técnico em Desenvolvimento de Sistemas
 - 💼 **Atualmente**: Estagiária
 - 🌱 **Aprendendo**: Spring Boot, Docker e MongoDb
-- 📫 **Como me encontrar**: [Ana Julia Medina](www.linkedin.com/in/ana-julia-medina-97a9612b3)
+- 📫 **Como me encontrar**: [Ana Julia Medina](https://www.linkedin.com/in/ana-julia-medina-97a9612b3/)
 - 😄 **Pronomes**: Ela/Dela
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-### Feito por Ana 🌟
+### Feito por Ana 🚀

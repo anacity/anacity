@@ -33,7 +33,7 @@
 
 ### 🌟 Projetos Destacados
 
-- **[Autenticação com JWT](https://github.com/anacity/auth)** - API de autenticação, com papéis com diferentes permissões.
+- **[Autenticação com JWT](https://github.com/anacity/auth)** - API de autenticação, com controle de acesso de acordo com o papel do usuário.
 - **[Gerenciamento de funcionários](https://github.com/anacity/gestaofuncionarios-CRUD)** - Com o sistema, é possível criar funcionários, editá-los e excluí-los. Além da lista que é feita a partir das modificações feitas (criar ou deletar)
 - **[Livraria](https://github.com/anacity/Livraria-CRUD)** - Simples sistema CRUD de uma livraria.
 

@@ -16,7 +16,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postman,git,github,vscode,eclipse&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postman,git,github,vscode,eclipse,docker,kubernetes&theme=dark" alt="Tecnologias" />
 </p>
 
 ---

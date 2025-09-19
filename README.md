@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Ana!;Desenvolvedora+%7C+Entusiasta+de+Tecnologia;Seja+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
-</p>
-
----
+# 👋 Olá! Eu sou a Ana
+Seja bem-vindo(a) ao meu GitHub!
 
 ### 👩‍💻 Sobre Mim
 - 🎓 **Formação**: Curso técnico em Desenvolvimento de Sistemas e Bacharelado em Sistemas de Informação
